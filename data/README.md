@@ -56,7 +56,7 @@ The `HAM10000_metadata.csv` file includes the following columns:
 ## How to Use
 
 1. **Download the Dataset:**
-   Download the dataset from the [HAM10000 Dataset Repository](https://doi.org/10.7910/DVN/DBW86T).
+   Download the dataset from the https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000?resource=download.
 
 2. **Organize the Data:**
    Place the image folders and metadata file in the `data/` directory following the structure outlined above.
